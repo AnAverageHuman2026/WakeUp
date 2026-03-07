@@ -5,4 +5,4 @@
     [觉醒人类](https://github.com/AnAverageHuman2026/WakeUp/觉醒人类.pdf)
     [MindControl](https://github.com/AnAverageHuman2026/WakeUp/MindControl.pdf)
     [WakeupHuman](https://github.com/AnAverageHuman2026/WakeUp/WakeupHuman.pdf)
-
+    [Simple, fast routing engine](https://laravel.com/docs/routing)
