@@ -11,8 +11,8 @@
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [从集极权走向自由]((https://github.com/AnAverageHuman2026/WakeUp/从集极权走向自由.pdf).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
+- [从集极权走向自由](https://github.com/AnAverageHuman2026/WakeUp/blob/main/%E4%BB%8E%E9%9B%86%E6%9E%81%E6%9D%83%E8%B5%B0%E5%90%91%E8%87%AA%E7%94%B1.pdf).
+- [WakeupHuman](https://github.com/AnAverageHuman2026/WakeUp/blob/main/WakeupHuman.pdf).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
 - Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
 - Database agnostic [schema migrations](https://laravel.com/docs/migrations).
